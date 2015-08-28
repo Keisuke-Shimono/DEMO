@@ -20,7 +20,7 @@ public class MotionActivity extends ActionBarActivity implements SensorEventList
     private TextView motion_x;
     private TextView motion_y;
     private TextView motion_z;
-
+    
     private SensorManager sensorManager;
     private Sensor        sensor;
 
